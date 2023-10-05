@@ -31,13 +31,15 @@
               <a class="nav-link" href="#Education" style="color: white;">Education</a>
               <a class="nav-link" href="#Skill" style="color: white;">Skills</a>
               <a class="nav-link" href="#Language" style="color: white;">Language</a>
+              <a class="nav-link" href="#Portfolio" style="color: white;">Portfolio</a>
+              <a class="nav-link" href="https://www.twitch.tv/pie_are/" style="color: white;">Twitch</a>
             </div>
           </div>
         </div>
       </nav>
       <div class="row">
-        <h1> <a name="Pitchayapa Gosinanon" id="Home"></a> <span style="color: #333399;">Pitchayapa
-            Gosinanon</span></h1>
+        <h1> <a name="Pitchayapa Gosinanon" id="Home"></a><img src="images/top.png"
+            class="img-fluid" alt="top"></h1>
         <span style="color: #6600cc;"> </span></div>
       <span style="color: #6600cc;"> </span>
       <hr>
@@ -53,7 +55,8 @@
           <h6> วันเกิด : 10/04/2003 </h6>
           <h6> คณะอักษรศาสตร์ รหัสนักศึกษา : 640510553 </h6>
           <h6> เป้าหมายการทำงาน :
-            ได้ทำงานในตำแหน่งที่ต้องใช้ภาษาญี่ปุ่นและการออกแบบ</h6>
+            ได้ทำงานในตำแหน่งที่ต้องใช้ภาษาญี่ปุ่นและการออกแบบ
+            และพร้อมที่จะเรียนรู้สิ่งใหม่ๆ ปรับปรุงแก้ไขในสิ่งที่ผิดพลาดเสมอ</h6>
         </div>
       </div>
       <br>
@@ -61,21 +64,22 @@
         <h2><a name="Contact" id="Contact"></a><span style="color: #6600cc;">Contact</span></h2>
         <h6>📞 phone : 0909484449 </h6>
         <h6> 📧 Email : gosinanon_p@silpakorn.edu </h6>
-        <div> <br>
+        <div class="row text-center"> <br>
           <h2><a name="Education" id="Education"></a><span style="color: #6600cc;">Education</span>
           </h2>
-          <h6> <img src="images/chs1.png" alt="chs" style="width: 117px; height: 117px;">
-            <br>
-            <br>
-            ● โรงเรียนเฉลิมขวัญสตรี </h6>
-          <h6> 2651-2563 | ศิลป์ภาษาญี่ปุ่น </h6>
-          <br>
-          <h6> <img src="images/su.png" alt="suu" style="width: 122px; height: 122px;">
-            <br>
-            <br>
-            ● มหาลัยศิลปากร </h6>
-          <h6> 2564~ | คณะอักษรศาสตร์ เอกสารสนเทศศาสตร์และบรรณารักษศาสตร์
-            โทภาษาญี่ปุ่น</h6>
+          <div class="row">
+            <div class="col-md-6"> <img src="images/chs1.png" alt="chs" style="width: 131px; height: 131px;">
+              <h6> <br>
+                ● โรงเรียนเฉลิมขวัญสตรี </h6>
+              <h6> 2651-2563 | ศิลป์ภาษาญี่ปุ่น </h6>
+            </div>
+            <div class="col-md-6"> <img src="images/su.png" alt="suu" style="width: 122px; height: 122px;">
+              <h6> <br>
+                ● มหาลัยศิลปากร </h6>
+              <h6> 2564~ | คณะอักษรศาสตร์ เอกสารสนเทศศาสตร์และบรรณารักษศาสตร์
+                โทภาษาญี่ปุ่น</h6>
+            </div>
+          </div>
         </div>
         <div> <br>
           <h2><a name="Skill" id="Skill"></a><span style="color: #6600cc;">Skills</span>
@@ -101,6 +105,13 @@
           </div>
         </div>
       </div>
+      <div class="row text-center">
+        <h2> <br>
+          <a name="My Portfolio" id="Portfolio"></a> <span style="color: #6600cc;">My
+            Portfolio</span> </h2>
+        <h4> Stream in Twitch </h4>
+        <a href="https://www.twitch.tv/pie_are/" target="_blank"><img src="images/twitch.jpg"
+            class="img-fluid" alt="twitch"></a> </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
 integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
